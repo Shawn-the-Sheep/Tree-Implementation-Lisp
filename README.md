@@ -1,2 +1,2 @@
 # Tree Implementation Lisp
-This program demonstrates an understanding of the tree data structure in CS. 
+These 2 programs demonstrate an understanding of the tree and heap data structures in CS. 
